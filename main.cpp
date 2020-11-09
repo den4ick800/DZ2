@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+//Прыгунов Данил, ваирант 16, побитовый сдвиг вправо на 2,файл 1 байт 
 
 using namespace std;
 int main(int argc, const char* argv[]) {
